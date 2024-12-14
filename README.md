@@ -1,3 +1,32 @@
+## rmw_connextdds (humble) - 0.11.3-1
+
+The packages in the `rmw_connextdds` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble rmw_connextdds --override-release-repository-push-url git@github.com:revyos-ros/rmw_connextdds-release.git` on `Sat, 14 Dec 2024 09:23:12 -0000`
+
+These packages were released:
+- `rmw_connextdds`
+- `rmw_connextdds_common`
+- `rti_connext_dds_cmake_module`
+
+These packages were explicitly ignored:
+- `rmw_connextddsmicro`
+
+Version of package(s) in repository `rmw_connextdds`:
+
+- upstream repository: https://github.com/ros2/rmw_connextdds.git
+- release repository: https://github.com/revyos-ros/rmw_connextdds-release.git
+- rosdistro version: `0.11.3-1`
+- old version: `0.11.2-1`
+- new version: `0.11.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rmw_connextdds (rolling) - 0.22.0-1
 
 The packages in the `rmw_connextdds` repository were released into the `rolling` distro by running `/home/marcogg/.local/bin/bloom-release rmw_connextdds --rosdistro rolling` on `Tue, 09 Apr 2024 06:54:04 -0000`
